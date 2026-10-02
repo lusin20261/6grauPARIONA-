@@ -1,0 +1,7 @@
+ entrar a githubu 
+ buscar tu repo 
+ poner code y copiar 
+entrar a lab 
+buscar a alunnos y entrar 
+poner  git clone control+shift+v 
+
